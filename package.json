@@ -1,0 +1,22 @@
+{
+  "name": "lab3arquisoft",
+  "version": "1.0.0",
+  "description": "Lab3 Arquisoft ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielaMGX/Lab3Arquisoft.git"
+  },
+  "author": "Daniela Monsalve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielaMGX/Lab3Arquisoft/issues"
+  },
+  "homepage": "https://github.com/DanielaMGX/Lab3Arquisoft#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
